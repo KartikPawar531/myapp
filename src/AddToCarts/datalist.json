@@ -1,0 +1,98 @@
+[
+    {   
+        "id":1,
+        "name":"Pizza",
+        "price":180,
+        "category":"Fast food",
+        "description":"One of the simplest and most traditional pizzas which is the Margherita, is now available",
+        "img":"https://media.istockphoto.com/id/1303119992/photo/pizza_margerita.jpg?s=612x612&w=0&k=20&c=0HZZMC10ySBYvMVAKUNzknkQ1E74q8NKwTV5_K6WK6M="
+    },
+    {
+        "id":2,
+        "name":"Burgers",
+        "price":210,
+        "category":"Fast food",
+        "description":"Buckle up, burger aficionados! It's time to delve into the scrumptious world of famous burgers",
+        "img":"https://media.istockphoto.com/id/998309062/photo/burger-with-beef-and-cheese.jpg?s=612x612&w=0&k=20&c=gsS00tWuoGp0_PQNEIIRII-qsCr42TSRujwBzP7P3Ls="
+    },
+    {
+        "id":3,
+        "name":"Cake",
+        "price":350,
+        "category":"dessert",
+        "description":"Cake, in general, any of a variety of breads, shortened or unshortened, usually shaped by the tin in which is baked",
+        "img":"https://media.istockphoto.com/id/1278918978/photo/choco-chips-cake.jpg?s=612x612&w=0&k=20&c=nVcDeeEt6wbpJy5Lv8rsLj4wLk31DNRxAqVWfP5Zmpk="
+    },
+    {
+        "id":4,
+        "name":"Biryani",
+        "price":150,
+        "category":"lunch",
+        "description":"Biryani is a layered Indian dish that includes rice and either lamb, chicken, or fish, and vegetables",
+        "img":"https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=612x612&w=0&k=20&c=adU_N0P-1SKMQLZu5yu7aPknfLLgbViI8XILqLP92A4="
+    },
+    {
+        "id":5,
+        "name":"Chicken",
+        "price":250,
+        "category":"lunch",
+        "description":"Chicken cooked in fiery desi flavors is a dream come true for all non-vegetarians",
+        "img":"https://media.istockphoto.com/id/1087069910/photo/famous-indian-mutton-curry-roast.jpg?s=612x612&w=0&k=20&c=RRDeIUs2TXdGYXKRAusjrEpOwy9T9aCo_iJzCeoXJqA="
+    },
+    {
+        "id":6,
+        "name":"paneer",
+        "price":170,
+        "category":"dinner",
+        "description":"Paneer Butter Masala is one of India’s most popular paneer recipes, and with good reason!",
+        "img":"https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=SShuhVPIWBpUaJXqvdWqjPrh0AqsR6VR68GInZlyw6Y="
+    },
+    {
+        "id": 7,
+        "name":"butter Chicken",
+        "price":280,
+        "category":"lunch",
+        "description":"Butter chicken, traditionally known as murgh makhani,is an Indian dish originating in Delhi.",
+        "img":"https://media.istockphoto.com/id/639389404/photo/authentic-indian-food.jpg?s=612x612&w=0&k=20&c=gbfAu17L1gtHmuo5biByhfCefAtYUtGQpyxMmi9_Mus="
+    },
+    {
+        "id": 8,
+        "name":"Chana masala",
+        "price":200,
+        "category":"dinner",
+        "description":"Chana masala is a North Indian curried dish made with white chickpeas, onions, tomatoes, spices and herbs",
+        "img":"https://media.istockphoto.com/id/1295943731/photo/chana-masala-or-chole-in-black-bowl-on-dark-slate-table-top-indian-cuisine-veg-chickpeas.jpg?s=612x612&w=0&k=20&c=FI-Qt3ufxWPGNmyZxnezSORGtM4As1McZj4FDOaF1cw="
+    },
+    {
+        "id":9,
+        "name":"Dal makhni",
+        "price":250,
+        "category":"dinner",
+        "description":" Dal Makhani recipe is a restaurant style version with subtle smoky flavors and creaminess of the lentils.",
+        "img":"https://media.istockphoto.com/id/516106400/photo/daal-makhani.jpg?s=612x612&w=0&k=20&c=17CaC6pVPkcf0i7yMv1gxd4YaEl5Cqs7PtnY0m-OxtU="
+    },
+    {
+        "id":10,
+        "name":"Mutter paneer",
+        "price":210,
+        "category":"dinner",
+        "description":"Matar Paneer is North Indian dish of Indian cottage cheese aka Paneer & peas cooked in a spicy curry.",
+        "img":"https://media.istockphoto.com/id/848624310/photo/matar-paneer-masala-an-indian-cuisine.jpg?s=612x612&w=0&k=20&c=X5jaiKubVAM-nj3yy7vyph7AJ0EQQ8J9yRVGCxHFL_U="
+    },
+    {
+        "id":11,
+        "name":"Masala Dosa",
+        "price":110,
+        "category":"lunch",
+        "description":"Masala Dosa is a popular South Indian dish where a crispy crepe made of fermented rice and lentil batter & served with cgutney",
+        "img":"https://media.istockphoto.com/id/1024558380/photo/group-of-south-indian-food-like-masala-dosa-uttapam-idli-idly-wada-vada-sambar-appam-semolina.jpg?s=612x612&w=0&k=20&c=cNol7HXELvV0UmGbdvOd-cG6oZvfb9ApLvJ96mF650s="
+    },
+    {
+        "id":12,
+        "name":"Mushroom masala",
+        "price":240,
+        "category":"lunch",
+        "description":" this is a delicious Punjabi style mushroom Curry made with white button mushrooms in a spiced tomato gravy. ",
+        "img":"https://media.istockphoto.com/id/843617624/photo/masala-soya-kebab-indian-curry-dish.jpg?s=612x612&w=0&k=20&c=rImQZ03CoO85DtgB9X4oeK0ljxV0QVZRN2XU3sCX1wo="
+    }    
+]
